@@ -7,3 +7,4 @@ git checkout
 git clone url
 git pull
 git origin
+git push origin main
